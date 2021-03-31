@@ -42,4 +42,4 @@ bot.on("ready", ()=>{
  
 
 
-bot.login(process.env.BOT_TOKEN);
+bot.login("ODI2MzYzOTM0MDI1MTg3MzQ4.YGLZYg.ZaqPMKs0sXIPf5QwYrPWr4L1sE0");
